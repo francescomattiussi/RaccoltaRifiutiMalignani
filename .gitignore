@@ -1,0 +1,15 @@
+# cartella per la presentazione in classe
+differenziata_localhost_presentazione
+
+# file contenenti il database
+DatabaseRifiuti.sql
+
+# file sensibili
+listautenti.php
+server/config.inc
+
+# librerie
+LocationChange/phpqrcode
+
+# file di macos
+.DS_Store
